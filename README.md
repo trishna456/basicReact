@@ -43,3 +43,11 @@ This app covers the following features:
 - **Components**: The UI is built using reusable components, allowing for a modular and maintainable structure.
 - **JSX**: JSX syntax is used to describe the UI components in a declarative manner, making it easier to visualize the UI structure.
 - **State Management**: State is managed within components to create interactive UIs. Events and user interactions trigger state updates, resulting in dynamic UI changes.
+
+##  Project Structure:
+- `src/`: Contains React components along with the main entry point (`App.js`) and application entry file (`index.js`).
+- `public/`: Stores static assets and the HTML template.
+- `package.json`: Specifies project metadata and dependencies.
+- `README.md`: Project documentation, providing instructions on getting started, contributing, and licensing details.
+
+Get started with React Essentials App today and level up your React skills!
