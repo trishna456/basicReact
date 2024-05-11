@@ -49,7 +49,9 @@ This app covers the following features:
 The project structure is organized as follows:
 
 react-essentials-app/
+
 ├── src/
+
 │   ├── components/          # Contains React components
 
 │   ├── App.js               # Main component rendering the entire app
