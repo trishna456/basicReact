@@ -51,10 +51,16 @@ The project structure is organized as follows:
 react-essentials-app/
 ├── src/
 │   ├── components/          # Contains React components
+
 │   ├── App.js               # Main component rendering the entire app
+
 │   ├── index.js             # Entry point of the application
+
 ├── public/                  # Static assets and HTML template
+
 ├── package.json             # Project metadata and dependencies
+
 ├── README.md                # Project documentation (you are here)
+
 └── .gitignore               # Specifies intentionally untracked files to ignore
 
